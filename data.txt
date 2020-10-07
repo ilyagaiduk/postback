@@ -1,0 +1,5 @@
+/postback.php?cid=0974dsye2sy0256&campaign_id=212&time=1596407855299333&sub1=20080217370005d310ff014bf7bd58add6cf&event=click
+/postback.php?cid=0974dsye2sy0256&campaign_id=212&time=1596407855299999&sub1=20080217370005d310ff014bf7bd58add6cf&event=click
+/postback.php?cid=0974dsye2sy0256&campaign_id=212&time=1596407855299444&sub1=20080217370005d310ff014bf7bd58add6cf&event=click
+/postback.php?cid=0974dsye2sy0256&campaign_id=212&time=1596407855299&sub1=20080217370005d310ff014bf7bd58add6cf&event=install
+/postback.php?cid=0974dsye2sy0256&campaign_id=212&time=1596407855299&sub1=20080217370005d310ff014bf7bd58add6cf&event=trial
